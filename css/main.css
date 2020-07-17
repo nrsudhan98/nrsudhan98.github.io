@@ -588,8 +588,7 @@ form,
   height: 6px;
   padding: 0;
   display: inline-block;
-  -webkit-transform: translate3d(-50%, -50%, 0);
-  transform: translate3d(-50%, -50%, 0);
+  
 }
 
 #loader > div {
